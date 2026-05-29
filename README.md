@@ -26,13 +26,13 @@ A Weather Dashboard is a web application built using **HTML, CSS, and JavaScript
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### Suggested Search
-![Suggested Search](screenshots/search.png)
+![Suggested Search](Screenshots/search.png)
 
 ### Weather Display
-![Weather Result](screenshots/weather.png)
+![Weather Result](Screenshots/weather.png)
 
 ---
 
